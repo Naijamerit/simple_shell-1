@@ -86,4 +86,5 @@ int main(void)
 	write(STDERR_FILENO, ": command not found\n", 20);
 	}
 	return (0);
+	}
 }
