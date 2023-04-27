@@ -3,6 +3,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <sys/wait.h>
+#include "shell.h"
 
 #define MAX_LENGTH 100
 
