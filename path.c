@@ -2,7 +2,7 @@
 #include <sys/wait.h>
 #include <string.h>
 #include <stdlib.h>
-#include <shell.h>
+#include "shell.h"
 
 #define MAX_LINE 80
 
